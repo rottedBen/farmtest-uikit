@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann", // TODO: changeme
+        href: "https://t.me/itsachange", // TODO: changeme
       },
       // {
       //   label: "Price Bot",
