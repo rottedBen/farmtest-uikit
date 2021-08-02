@@ -1875,7 +1875,7 @@ var Icon$P = function (props) {
 var Logo = function (_a) {
     var isDark = _a.isDark, props = __rest(_a, ["isDark"]);
     return (React.createElement(Svg, __assign({ viewBox: "0 0 205 26" }, props),
-        React.createElement("image", { width: "205", height: "26", href: isDark ? '/images/egg/LogoTextNewDark.png' : '/images/egg/LogoTextNewWhite.png' })));
+        React.createElement("image", { width: "205", height: "26", href: isDark ? "/images/egg/LogoTextNewDark.png" : "/images/egg/LogoTextNewWhite.png" })));
 };
 
 var Icon$Q = function (props) {
@@ -2106,11 +2106,11 @@ var links = [
         items: [
             {
                 label: "Exchange",
-                href: "https://exchange.pancakeswap.finance",
+                href: "https://www.cherryswap.net/#/swap",
             },
             {
                 label: "Liquidity",
-                href: "https://exchange.pancakeswap.finance/#/pool",
+                href: "https://www.cherryswap.net/#/pool",
             },
         ],
     },
@@ -2124,67 +2124,67 @@ var links = [
         icon: "PoolIcon",
         href: "/syrup",
     },
-    {
-        label: "Lottery",
-        icon: "TicketIcon",
-        href: "/lottery",
-    },
-    {
-        label: "NFT",
-        icon: "NftIcon",
-        href: "/nft",
-    },
-    {
-        label: "Profile & Teams",
-        icon: "GroupsIcon",
-        items: [
-            {
-                label: "Leaderboard",
-                href: "/",
-            },
-            {
-                label: "YourProfile",
-                href: "/",
-            },
-        ],
-        calloutClass: "rainbow",
-    },
-    {
-        label: "Info",
-        icon: "InfoIcon",
-        items: [
-            {
-                label: "Overview",
-                href: "https://pancakeswap.info",
-            },
-            {
-                label: "Tokens",
-                href: "https://pancakeswap.info/tokens",
-            },
-            {
-                label: "Pairs",
-                href: "https://pancakeswap.info/pairs",
-            },
-            {
-                label: "Accounts",
-                href: "https://pancakeswap.info/accounts",
-            },
-        ],
-    },
-    {
-        label: "IFO",
-        icon: "IfoIcon",
-        items: [
-            {
-                label: "Next",
-                href: "/ifo",
-            },
-            {
-                label: "History",
-                href: "/ifo/history",
-            },
-        ],
-    },
+    // {
+    //   label: "Lottery",
+    //   icon: "TicketIcon",
+    //   href: "/lottery",
+    // },
+    // {
+    //   label: "NFT",
+    //   icon: "NftIcon",
+    //   href: "/nft",
+    // },
+    // // {
+    //   label: "Profile & Teams",
+    //   icon: "GroupsIcon",
+    //   items: [
+    //     {
+    //       label: "Leaderboard",
+    //       href: "/",
+    //     },
+    //     {
+    //       label: "YourProfile",
+    //       href: "/",
+    //     },
+    //   ],
+    //   calloutClass: "rainbow",
+    // },
+    // {
+    //   label: "Info",
+    //   icon: "InfoIcon",
+    //   items: [
+    //     {
+    //       label: "Overview",
+    //       href: "https://pancakeswap.info",
+    //     },
+    //     {
+    //       label: "Tokens",
+    //       href: "https://pancakeswap.info/tokens",
+    //     },
+    //     {
+    //       label: "Pairs",
+    //       href: "https://pancakeswap.info/pairs",
+    //     },
+    //     {
+    //       label: "Accounts",
+    //       href: "https://pancakeswap.info/accounts",
+    //     },
+    //   ],
+    // },
+    // {
+    //   label: "IFO",
+    //   icon: "IfoIcon",
+    //   items: [
+    //     {
+    //       label: "Next",
+    //       href: "/ifo",
+    //     },
+    //     {
+    //       label: "History",
+    //       href: "/ifo/history",
+    //     },
+    //   ],
+    // },
     {
         label: "More",
         icon: "MoreIcon",
@@ -2195,15 +2195,7 @@ var links = [
             // },
             {
                 label: "Github",
-                href: "https://github.com/goosedefi/",
-            },
-            {
-                label: "Docs",
-                href: "https://goosedefi.gitbook.io/goose-finance/",
-            },
-            {
-                label: "Blog",
-                href: "https://goosefinance.medium.com/",
+                href: "https://github.com/GorillaFi",
             },
         ],
     },
@@ -2215,7 +2207,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/gorillafinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2266,12 +2258,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goosedefi",
-    },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
+        href: "https://www.twitter.com/gorillfinance02",
     },
 ];
 var MENU_HEIGHT = 64;
