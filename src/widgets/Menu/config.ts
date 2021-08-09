@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://www.cherryswap.net/#/swap",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
+        href: "https://www.cherryswap.net/#/pool",
       },
     ],
   },
@@ -28,67 +28,67 @@ export const links = [
     icon: "PoolIcon",
     href: "/syrup",
   },
-  {
-    label: "Lottery",
-    icon: "TicketIcon",
-    href: "/lottery",
-  },
-  {
-    label: "NFT",
-    icon: "NftIcon",
-    href: "/nft",
-  },
-  {
-    label: "Profile & Teams",
-    icon: "GroupsIcon",
-    items: [
-      {
-        label: "Leaderboard",
-        href: "/",
-      },
-      {
-        label: "YourProfile",
-        href: "/",
-      },
-    ],
-    calloutClass: "rainbow",
-  },
-  {
-    label: "Info",
-    icon: "InfoIcon",
-    items: [
-      {
-        label: "Overview",
-        href: "https://pancakeswap.info",
-      },
-      {
-        label: "Tokens",
-        href: "https://pancakeswap.info/tokens",
-      },
-      {
-        label: "Pairs",
-        href: "https://pancakeswap.info/pairs",
-      },
-      {
-        label: "Accounts",
-        href: "https://pancakeswap.info/accounts",
-      },
-    ],
-  },
-  {
-    label: "IFO",
-    icon: "IfoIcon",
-    items: [
-      {
-        label: "Next",
-        href: "/ifo",
-      },
-      {
-        label: "History",
-        href: "/ifo/history",
-      },
-    ],
-  },
+  // {
+  //   label: "Lottery",
+  //   icon: "TicketIcon",
+  //   href: "/lottery",
+  // },
+  // {
+  //   label: "NFT",
+  //   icon: "NftIcon",
+  //   href: "/nft",
+  // },
+  // // {
+  //   label: "Profile & Teams",
+  //   icon: "GroupsIcon",
+  //   items: [
+  //     {
+  //       label: "Leaderboard",
+  //       href: "/",
+  //     },
+  //     {
+  //       label: "YourProfile",
+  //       href: "/",
+  //     },
+  //   ],
+  //   calloutClass: "rainbow",
+  // },
+  // {
+  //   label: "Info",
+  //   icon: "InfoIcon",
+  //   items: [
+  //     {
+  //       label: "Overview",
+  //       href: "https://pancakeswap.info",
+  //     },
+  //     {
+  //       label: "Tokens",
+  //       href: "https://pancakeswap.info/tokens",
+  //     },
+  //     {
+  //       label: "Pairs",
+  //       href: "https://pancakeswap.info/pairs",
+  //     },
+  //     {
+  //       label: "Accounts",
+  //       href: "https://pancakeswap.info/accounts",
+  //     },
+  //   ],
+  // },
+  // {
+  //   label: "IFO",
+  //   icon: "IfoIcon",
+  //   items: [
+  //     {
+  //       label: "Next",
+  //       href: "/ifo",
+  //     },
+  //     {
+  //       label: "History",
+  //       href: "/ifo/history",
+  //     },
+  //   ],
+  // },
   {
     label: "More",
     icon: "MoreIcon",
@@ -99,16 +99,16 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/GorillaFi",
       },
-      {
-        label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
-      },
-      {
-        label: "Blog",
-        href: "https://goosefinance.medium.com/",
-      },
+      // {
+      //   label: "Docs",
+      //   href: "https://goosedefi.gitbook.io/goose-finance/",
+      // },
+      // {
+      //   label: "Blog",
+      //   href: "https://goosefinance.medium.com/",
+      // },
     ],
   },
 ];
@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi", // TODO: changeme
+        href: "https://t.me/gorillafinance", // TODO: changeme
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -162,10 +162,10 @@ export const socials = [
       //   label: "Français",
       //   href: "https://t.me/goosefinancefrench",
       // },
-      {
-        label: "Announcements",
-        href: "https://t.me/itsachange", // TODO: changeme
-      },
+      // {
+      //   label: "Announcements",
+      //   href: "https://t.me/itsachange", // TODO: changeme
+      // },
       // {
       //   label: "Price Bot",
       //   href: "https://t.me/BinanceRocketEGG",
@@ -175,13 +175,13 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "https://www.twitter.com/gorillafinance2",
   },
-  {
-    label: "Reddit",
-    icon: "RedditIcon",
-    href: "https://www.reddit.com/r/GooseFinanceofficial",
-  },
+  // {
+  //   label: "Reddit",
+  //   icon: "RedditIcon",
+  //   href: "https://www.reddit.com/r/GooseFinanceofficial",
+  // },
 ];
 
 export const MENU_HEIGHT = 64;

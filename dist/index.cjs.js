@@ -1936,8 +1936,8 @@ var Icon$W = function (props) {
 };
 
 var Icon$X = function (props) {
-    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 24 24" }, props),
-        React__default['default'].createElement("path", { fillRule: "evenodd", clipRule: "evenodd", d: "M18.86 4.86003L21.65 7.65003C21.84 7.84003 21.84 8.16003 21.64 8.35003L18.85 11.14C18.54 11.46 18 11.24 18 10.79V9.00003H4C3.45 9.00003 3 8.55003 3 8.00003C3 7.45003 3.45 7.00003 4 7.00003H18V5.21003C18 4.76003 18.54 4.54003 18.86 4.86003ZM5.14001 19.14L2.35001 16.35C2.16001 16.16 2.16001 15.84 2.36001 15.65L5.15001 12.86C5.46001 12.54 6.00001 12.76 6.00001 13.21V15H20C20.55 15 21 15.45 21 16C21 16.55 20.55 17 20 17H6.00001V18.79C6.00001 19.24 5.46001 19.46 5.14001 19.14Z" })));
+    return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 96 96" }, props),
+        React__default['default'].createElement("image", { width: "96", height: "96", href: "/images/egg/9.png" })));
 };
 
 var Icon$Y = function (props) {
@@ -2222,56 +2222,12 @@ var socials = [
                 label: "English",
                 href: "https://t.me/gorillafinance",
             },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            // {
-            //   label: "中文",
-            //   href: "https://t.me/goosefinancechinese",
-            // },
-            // {
-            //   label: "Tiếng Việt",
-            //   href: "https://t.me/PancakeSwapVN",
-            // },
-            // {
-            //   label: "Italiano",
-            //   href: "https://t.me/goosefinanceitalian",
-            // },
-            // {
-            //   label: "русский",
-            //   href: "https://t.me/goosefinancerussian",
-            // },
-            // {
-            //   label: "Türkiye",
-            //   href: "https://t.me/GooseFinanceTurkey",
-            // },
-            // {
-            //   label: "Português",
-            //   href: "https://t.me/PancakeSwapPortuguese",
-            // },
-            // {
-            //   label: "Español",
-            //   href: "https://t.me/goosefinancespanish",
-            // },
-            // {
-            //   label: "日本語",
-            //   href: "https://t.me/goosefinancejapanese",
-            // },
-            // {
-            //   label: "Français",
-            //   href: "https://t.me/goosefinancefrench",
-            // },
-            {
-                label: "Announcements",
-                href: "https://t.me/itsachange",
-            },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://www.twitter.com/gorillfinance02",
+        href: "https://www.twitter.com/gorillafinance2",
     },
 ];
 var MENU_HEIGHT = 64;
